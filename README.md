@@ -46,3 +46,5 @@ a .ignore file containing Makefile. It changes if you add new directories or mar
 * Pandoc (markdown --> html conversion)
 * sed (find markdown links, change to html links)
 * bash (makefile generator)
+* markdown
+* make
