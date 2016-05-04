@@ -40,3 +40,9 @@ a .ignore file containing Makefile. It changes if you add new directories or mar
 1. clone/fork this repository.
 2. start writing markdown.
 
+
+## Dependencies
+
+* Pandoc (markdown --> html conversion)
+* sed (find markdown links, change to html links)
+* bash (makefile generator)
